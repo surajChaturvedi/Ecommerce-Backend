@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Environment varibales
+.env*
+!.env*.example
+
+# Log files
+log
+
+# Dependency directories
+package-lock.json
